@@ -1,0 +1,24 @@
+{
+  "name": "scan2epub",
+  "version": "1.0.0",
+  "description": "画像を編集してEPUBに変換する",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^3.2.1",
+    "ejs": "^4.0.1",
+    "file-type": "^21.3.0",
+    "image-size": "^2.0.2",
+    "jszip": "^3.10.1",
+    "natural-orderby": "^5.0.0",
+    "pdf-poppler": "^0.2.3",
+    "pdfjs-dist": "^5.4.530",
+    "sharp": "^0.34.5",
+    "uuid": "^13.0.0"
+  }
+}
